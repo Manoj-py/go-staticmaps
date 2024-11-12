@@ -1,4 +1,5 @@
-module github.com/flopp/go-staticmaps
+module github.com/Manoj-py/go-staticmaps
+
 
 go 1.22
 
